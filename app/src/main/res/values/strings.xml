@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">MyApiTest - COLOQUE O SEU NOME AQUI</string>
+    <string name="app_name">Bruno Silvestro</string>
+    <string name="error_login">"Erro ao tentar fazer login via SMS "</string>
+    <string name="success_login_sent">Código enviado por SMS</string>
+    <string name="error_login_verification">Erro ao verificar código SMS</string>
+    <string name="logout">Sair</string>
+    <string name="login">Login</string>
+    <string name="cellphone">Celular</string>
+    <string name="cellphone_placeholder">+5511</string>
+    <string name="send_sms">Enviar SMS</string>
+    <string name="hint_sms_code">123456</string>
+    <string name="verify_sms">Verificar SMS</string>
 </resources>

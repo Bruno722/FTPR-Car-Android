@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "97260835576",
+    "project_id": "minhaprimeiraapi-d3999",
+    "storage_bucket": "minhaprimeiraapi-d3999.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97260835576:android:76da5bcc68464828f8a10d",
+        "android_client_info": {
+          "package_name": "com.example.minhaprimeiraapi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0fQxi4DPjiA0DEXMcQkVr8pwbaveNYNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97260835576:android:da551efcbb48bd36f8a10d",
+        "android_client_info": {
+          "package_name": "com.example.myapitest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0fQxi4DPjiA0DEXMcQkVr8pwbaveNYNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
