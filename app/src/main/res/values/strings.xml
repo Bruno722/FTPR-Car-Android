@@ -10,4 +10,20 @@
     <string name="send_sms">Enviar SMS</string>
     <string name="hint_sms_code">123456</string>
     <string name="verify_sms">Verificar SMS</string>
+    <string name="error_request_camera">Permissão da camêra não concedida!</string>
+    <string name="car_name">Car Name</string>
+    <string name="car_license_plate">Car License Plate</string>
+    <string name="car_year">Car Year</string>
+    <string name="image_url">Image URL</string>
+    <string name="error_upload_image">Erro ao realizar upload!\n</string>
+    <string name="error_create_car">Erro ao criar o carro\n</string>
+    <string name="succes_create_car">Carro %1$s adicionado com sucesso!</string>
+    <string name="error_validate_form">Por favor, preencha o campo: %1$s</string>
+    <string name="error_validate_location">Por favor, selecione a localização no mapa!</string>
+    <string name="error_delete">Erro ao deletar o carro\n</string>
+    <string name="success_delete">Carro deletado com sucesso</string>
+    <string name="error_update">Erro ao atualizar o carro</string>
+    <string name="success_update">Carro atualizado com sucesso</string>
+    <string name="error_request_location_permission">Permissão de localização negada</string>
+    <string name="unknown_error">Erro desconhecido\n</string>
 </resources>
